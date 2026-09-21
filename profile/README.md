@@ -25,6 +25,8 @@ The harms now surfacing in courtrooms and regulatory inquiries are rarely the re
 
 CADSS is designed to measure both: five instruments and one cross-cutting module, each aimed at the layer where a class of harm operates, on one shared technical spine — multi-turn, age-banded, scored by trained human panels, with pre-registered reliability thresholds gating any public score.
 
+Behind the suite is a taxonomy. For more than a year AIChildSafety.org has been building a literature review and a taxonomy of AI's harms and benefits to children; it feeds our decisions about which evaluations to build, and we expect the instruments and the taxonomy to improve each other.
+
 ## The instruments
 
 | | Instrument | The core question |
@@ -38,7 +40,7 @@ CADSS is designed to measure both: five instruments and one cross-cutting module
 
 ## Where this stands
 
-The suite is **designed and grounded in research, but not yet fully-built, piloted, or validated**. The first instrument, **ASHA**, exists as a runnable design-stage prototype. Repositories here are private during pre-release review and will open as each component is ready for public critique.
+The suite is **designed and grounded in research, but not yet fully-built, piloted, or validated**. Two instruments, **ASHA** and **EMST**, exist as runnable design-stage prototypes. Repositories here are private during pre-release review; reviewers, researchers and partners can request read access at john@aichildsafety.org, and each component opens for public critique as a fresh public repository when it is ready.
 
 Three commitments travel with every future release:
 
