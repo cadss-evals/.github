@@ -19,6 +19,8 @@ actually do with children — built by
 
 ---
 
+Code in these repositories is Apache-2.0 and content is CC BY 4.0; the instrument names are trademarks of AIChildSafety.org, and the conditions under which a result may be reported under an instrument's name are in [TRADEMARK.md](https://github.com/cadss-evals/.github/blob/main/TRADEMARK.md), versioned with this repository.
+
 The harms now surfacing in courtrooms and regulatory inquiries are rarely the result of one bad reply. They are patterns that accumulate across weeks of dialogue, in which no single turn is clearly harmful. Most safety evaluation still scores the single reply, and multi-turn evaluation mostly tests whether guardrails survive attack. **No public instrument measures whether sustained, ordinary use builds or erodes a child's own capacities — or whether a system behaves more protectively toward the users least able to resist persuasion.**
 
 CADSS is designed to measure both: five instruments and one cross-cutting module, each aimed at the layer where a class of harm operates, on one shared technical spine — multi-turn, age-banded, scored by trained human panels, with pre-registered reliability thresholds gating any public score.
@@ -41,7 +43,7 @@ The suite is **designed and grounded in research, but not yet fully-built, pilot
 Three commitments travel with every future release:
 
 - **No real children.** All evaluation personas are synthetic; nothing in any corpus was produced by a child.
-- **Reliability before publicity.** Trained human panels and pre-registered inter-rater reliability thresholds gate any public score, and every score carries its boundary sentence: *measures system behavior against developmental criteria; does not measure developmental outcomes.*
+- **Reliability before publicity.** Trained human panels and inter-rater reliability thresholds fixed in advance gate any public score, and every score states what the instrument does not measure: *it measures system conduct against developmental criteria, at the level of mechanisms and harms; it does not measure developmental outcomes in any person.*
 - **Evidence-based.** Every dimension is adapted from an existing and validated human measure, such as attachment and parasocial-relationship scales, coercive-control taxonomies, the persuasion-knowledge model, and identity-status theory –  rather than an invented content-policy rubric.
 <img width="1083" height="20" alt="image" src="https://github.com/user-attachments/assets/d0325d62-7646-47ce-894a-58ffab0cb397" />
 
@@ -52,6 +54,6 @@ Methodological critique, scenario contributions (especially beyond US English), 
 **john@aichildsafety.org** · [aichildsafety.org](https://aichildsafety.org)
 
 <div align="center">
-<sub>CADSS, CORB, EIA, EMST, IWA, ASHA, and CPQ are service marks of AIChildSafety.org.<br>
+<sub>CADSS, CORB, EIA, EMST, IWA, ASHA, and CPQ are trademarks of AIChildSafety.org; see <a href="https://github.com/cadss-evals/.github/blob/main/TRADEMARK.md">TRADEMARK.md</a>.<br>
 © 2026 AIChildSafety.org · Childhood and AI Lab</sub>
 </div>
