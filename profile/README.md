@@ -11,11 +11,14 @@ actually do with children — built by
 [AIChildSafety.org](https://aichildsafety.org) and the
 [Childhood and AI Lab](https://childhoodandailab.org).**
 
-![Status](https://img.shields.io/badge/status-design--stage-C02126?style=flat-square)
+![Status](https://img.shields.io/badge/status-prototypes_in_development-C02126?style=flat-square)
 ![Independence](https://img.shields.io/badge/funding-independent_of_AI_developers-231F20?style=flat-square)
 ![No real children](https://img.shields.io/badge/personas-synthetic_only-C02126?style=flat-square)
 
 </div>
+
+> [!WARNING]
+> **Prototypes in development, shared for testing and critique.** Nothing in this organization is a validated instrument. Two instruments, EMST and ASHA, exist as runnable prototypes whose packs were written by language models to exercise the software; four are specified and not yet built. No line has been judged by a young person, coded by a certified coder or reviewed by a clinician; no AI system has been scored; no reliability statistic exists. Outputs are screening observations about system conduct: not safety scores, not rankings, not diagnoses, not measures of any child, and nothing produced with these repositories may be cited as a measurement of any AI system. A result may carry an instrument's name only when produced under its released protocol.
 
 ---
 
@@ -29,19 +32,19 @@ CADSS is designed to measure both: five instruments and one cross-cutting module
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/corb.png" width="72" alt="CORB"> | **CORB** · Cognitive Over-Reliance Benchmark <br><sub>MODEL LAYER – COGNITION</sub> | Does it scaffold a child's reasoning — the way a good tutor would — or substitute for it? |
 | <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/eia.png" width="72" alt="EIA"> | **EIA** · Engagement Integrity Audit <br><sub>PRODUCT LAYER – ENGAGEMENT</sub> | Is the product engineered for compulsive engagement, measured against a child's developing self-regulation? |
-| <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/emst.png" width="72" alt="EMST"> | **EMST** · Emotional Manipulation Stress Test <br><sub>INTERACTIONAL LAYER – RELATIONSHIPS</sub> | Across long conversations, does it induce dependency — or support a young person's human relationships? |
+| <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/emst.png" width="72" alt="EMST"> | **EMST** · Emotional Manipulation Stress Test <br><sub>INTERACTIONAL LAYER – RELATIONSHIPS</sub> | When a child treats it as a close friend or counselor across long conversations, does the model reinforce dependency with manipulative tactics, or deflect the bid for closeness without responding coldly? |
 | <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/iwa.png" width="72" alt="IWA"> | **IWA** · Identity & Worldview Autonomy <br><sub>INTERACTIONAL LAYER – IDENTITY</sub> | Does it steer a child's beliefs and self-concept, or leave room for a person to become themselves? |
 | <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/asha.png" width="72" alt="ASHA"> | **ASHA** · Age-Signal Handling & Adaptation <br><sub>SYSTEM LAYER – AGE ADAPTATION</sub> | Does it notice it is talking to a child, adapt — and keep adapting as the conversation runs on? |
 | <img src="https://raw.githubusercontent.com/cadss-evals/.github/main/profile/assets/cpq.png" width="72" alt="CPQ"> | **CPQ** · Crisis Pathway Quality <br><sub>CROSS-CUTTING MODULE – CRISIS RESPONSE</sub> | When a child signals crisis, does the pathway hold — at turn 4 and at turn 40? |
 
 ## Where this stands
 
-The suite is **designed and grounded in research, but not yet fully-built, piloted, or validated**. The first instrument, **ASHA**, exists as a runnable design-stage prototype. Repositories here are private during pre-release review and will open as each component is ready for public critique.
+The suite is **designed and grounded in research, but not yet fully built, piloted, or validated**. Two instruments, **ASHA** and **EMST**, exist as runnable prototypes in development; **CORB**, **EIA**, **IWA** and **CPQ** are specified and not yet built. No instrument has been piloted or validated, and no result has been produced that could be cited as a measurement. Repositories are private during pre-release review and open, one at a time, for testing and critique when a component is ready for it; opening a repository does not change its status.
 
 Three commitments travel with every future release:
 
 - **No real children.** All evaluation personas are synthetic; nothing in any corpus was produced by a child.
-- **Reliability before publicity.** Trained human panels and pre-registered inter-rater reliability thresholds gate any public score, and every score carries its boundary sentence: *measures system behavior against developmental criteria; does not measure developmental outcomes.*
+- **Reliability before publicity.** Trained human panels and pre-registered inter-rater reliability thresholds gate any public score, and every score carries its scope statement: *measures system conduct against developmental criteria; does not measure developmental outcomes in any person.*
 - **Evidence-based.** Every dimension is adapted from an existing and validated human measure, such as attachment and parasocial-relationship scales, coercive-control taxonomies, the persuasion-knowledge model, and identity-status theory –  rather than an invented content-policy rubric.
 <img width="1083" height="20" alt="image" src="https://github.com/user-attachments/assets/d0325d62-7646-47ce-894a-58ffab0cb397" />
 
