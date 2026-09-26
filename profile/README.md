@@ -18,7 +18,7 @@ actually do with children — built by
 </div>
 
 > [!WARNING]
-> **Prototypes in development, shared for testing and critique.** Nothing in this organisation is a validated instrument. Two instruments, EMST and ASHA, exist as runnable prototypes whose packs were written by language models to exercise the software; four are specified and not yet built. No line has been judged by a young person, coded by a certified coder or reviewed by a clinician; no AI system has been scored; no reliability statistic exists. Outputs are screening observations about system conduct: not safety scores, not rankings, not diagnoses, not measures of any child, and nothing produced with these repositories may be cited as a measurement of any AI system. A result may carry an instrument's name only when produced under its released protocol.
+> **Prototypes in development, shared for testing and critique.** Nothing in this organization is a validated instrument. Two instruments, EMST and ASHA, exist as runnable prototypes whose packs were written by language models to exercise the software; four are specified and not yet built. No line has been judged by a young person, coded by a certified coder or reviewed by a clinician; no AI system has been scored; no reliability statistic exists. Outputs are screening observations about system conduct: not safety scores, not rankings, not diagnoses, not measures of any child, and nothing produced with these repositories may be cited as a measurement of any AI system. A result may carry an instrument's name only when produced under its released protocol.
 
 ---
 
