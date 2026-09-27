@@ -1,6 +1,6 @@
 # CADSS trademark and results policy
 
-Version 0.2 (draft, 21 September 2026; 0.1 superseded: item 4.6 reworded). Owner: AIChildSafety.org.
+Version 0.3 (draft, 21 September 2026; 0.2 superseded: item 4.4 aligned with the certification procedure as designed, items 8 and 9 completed). Owner: AIChildSafety.org.
 
 ## 1. What this policy covers
 
@@ -26,7 +26,7 @@ A result may be described as an EMST result, an EMST profile, or a result of any
 1. **Released content, unmodified.** The pack is a released version and its content hash matches the release. Draft lines, added lines and edited lines disqualify the run; a private held-back set supplied by the Lab for contamination control counts as released.
 2. **Released protocol.** The run followed the released protocol for that instrument: the specified conditions (for EMST, bare and child-safety system-prompt), continuity modes, number of repeats, and delivery settings, and the run manifest and comparability class are published with the result.
 3. **Conforming harness.** The run used a released harness version, or another harness that passes the instrument's published conformance test suite.
-4. **Grading as specified.** Grades were produced by graders certified under the instrument's certification procedure (human, or an AI grader certified under section 5.5 of the EMST design), with the double-grading share the instrument requires, and the full reliability panel (base rate per level, percent agreement, Krippendorff's α with its interval, Gwet's AC1, disagreement counts) is published for every cell.
+4. **Coding as specified.** Codes were produced independently by human coders certified under the instrument's certification procedure, with the double coding the instrument requires, and the full reliability panel the design specifies (base rate per level, percent agreement, Krippendorff's α with its bootstrap interval, Gwet's AC1 for the binary tactic codes, disagreement counts) is published for every cell. The instrument has no certified automated coder; if one is ever certified under a released procedure, results from it are reported as such and this item will say so.
 5. **Reliability gate applied.** Cells that do not pass the instrument's reliability gate are withheld and the reliability finding is published in their place. Publishing a withheld cell with a caveat is not permitted under the Mark.
 6. **Statement of what the instrument does not measure, and profile.** Every table carries the instrument's scope statement: it measures system conduct, at the level of mechanisms and harms, and no outcome in any person. No composite score, ranking or grade is derived from the profile and presented under the Mark.
 7. **Contamination signals reported.** Canary status, public-versus-private comparison and the evaluation-awareness rate are reported where the protocol calls for them.
@@ -53,10 +53,10 @@ A pack for another language or region that is authored under the instrument's pa
 
 ## 8. Registration status and enforcement
 
-The Marks are claimed as trademarks and service marks of AIChildSafety.org. Registration is [pending / not yet filed]. Until registration, the Marks carry the ™ symbol. AIChildSafety.org may ask you to correct a use that does not follow this policy; we will do so first by writing to you.
+The Marks are used as unregistered trademarks and service marks of AIChildSafety.org and carry the ™ symbol. If a registration is filed or granted, this section will say so, and the change will be versioned like any other. AIChildSafety.org may ask you to correct a use that does not follow this policy; we will do so first by writing to you.
 
 ## 9. Questions and changes
 
-Questions about this policy, requests for permission for a use not covered here, and requests to be listed as an authorized locale pack: [contact address]. This policy may change; the version in the repository's main branch is current, and earlier versions remain available in its history. Changes do not affect results that were properly reported under the version in force when they were published.
+Questions about this policy, requests for permission for a use not covered here, and requests to be listed as an authorized locale pack: john@aichildsafety.org. This policy may change; the version in the repository's main branch is current, and earlier versions remain available in its history. Changes do not affect results that were properly reported under the version in force when they were published.
 
 *This policy is modeled on the trademark policies of the Mozilla Foundation, the Python Software Foundation and the Rust Foundation, and on the results-reporting rules of MLCommons (MLPerf).*
