@@ -41,6 +41,8 @@ CADSS is designed to measure both: five instruments and one cross-cutting module
 
 The suite is **designed and grounded in research, but not yet fully built, piloted, or validated**. Two instruments, **ASHA** and **EMST**, exist as runnable prototypes in development; **CORB**, **EIA**, **IWA** and **CPQ** are specified and not yet built. No instrument has been piloted or validated, and no result has been produced that could be cited as a measurement. Repositories are private during pre-release review and open, one at a time, for testing and critique when a component is ready for it; opening a repository does not change its status.
 
+Code in these repositories is Apache-2.0 and content is CC BY 4.0; the instrument names are service marks of AIChildSafety.org, and the conditions under which a result may be reported under an instrument's name are in [TRADEMARK.md](https://github.com/cadss-evals/.github/blob/main/TRADEMARK.md), versioned with this repository.
+
 Three commitments travel with every future release:
 
 - **No real children.** All evaluation personas are synthetic; nothing in any corpus was produced by a child.
@@ -55,6 +57,6 @@ Methodological critique, scenario contributions (especially beyond US English), 
 **john@aichildsafety.org** · [aichildsafety.org](https://aichildsafety.org)
 
 <div align="center">
-<sub>CADSS, CORB, EIA, EMST, IWA, ASHA, and CPQ are service marks of AIChildSafety.org.<br>
+<sub>CADSS, CORB, EIA, EMST, IWA, ASHA, and CPQ are service marks of AIChildSafety.org; see <a href="https://github.com/cadss-evals/.github/blob/main/TRADEMARK.md">TRADEMARK.md</a>.<br>
 © 2026 AIChildSafety.org · Childhood and AI Lab</sub>
 </div>
